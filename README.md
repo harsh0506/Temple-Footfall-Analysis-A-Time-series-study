@@ -1,7 +1,5 @@
 # Temple Footfall Analysis: A Time series study
 
-# Temple Footfall Analysis
-
 ## Overview
 This repository contains a comprehensive time series analysis of temple visitor patterns using advanced statistical methods and machine learning approaches. The study analyzes 1,096 observations from 2016 to early 2019, exploring relationships between visitor patterns and real-world influences such as festivals, weekends, and weather events.
 
